@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey! I'm Carlos! 🌱
+- 🎓 Bachelor's of Science graduate in Computer Science from the University of Colorado, Denver!
+- ⚡ Fun fact: I love music, bilingual (English & Spanish), and love sports!
+- 🔋 Work experience: <a href="https://www.linkedin.com/in/carlos-valdez-cs/">
+Feel free to ask me anything <3
 
 <!--
 **valdcarl/valdcarl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
