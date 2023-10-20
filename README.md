@@ -1,7 +1,9 @@
 <h1>Hey! I'm Carlos! 🌱</h1>
-- 🎓 Bachelor's of Science graduate in Computer Science from the University of Colorado, Denver!
-- ⚡ Fun fact: I love music, bilingual (English & Spanish), and love sports!
-- 💼 Work experience: <a href="https://www.linkedin.com/in/carlos-valdez-cs/">LinkedIn</a>
+<ul>
+  <li>🎓 Bachelor's of Science graduate in Computer Science from the University of Colorado, Denver!</li>
+  <li>⚡ Fun fact: I love music, bilingual (English & Spanish), and love sports!</li>
+  <li>💼 Work experience: <a href="https://www.linkedin.com/in/carlos-valdez-cs/">LinkedIn</a></li>
+</ul>
 <p>Feel free to ask me anything!</p>
 
 <h3 align="left">💻 Languages:</h3>
