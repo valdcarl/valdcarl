@@ -4,7 +4,7 @@
 - 💼 Work experience: <a href="https://www.linkedin.com/in/carlos-valdez-cs/">LinkedIn</a>
 <p>Feel free to ask me anything!</p>
 
-<h3 align="left"> Languages:</h3>
+<h3 align="left">💻 Languages:</h3>
 <p align="left">
   <!-- Python -->
   <a 
