@@ -73,11 +73,9 @@
   </a>
 </p>
 <h3 align="left">➕ Additional:></h3>
-- Adobe Creative Cloud Suite: Photoshop, Premier, Lightroom
-  <a href="![acc](https://github.com/valdcarl/valdcarl/assets/77943334/4f68c544-1e1e-44a1-b043-f592af92f83d)" alt= adobecreativecloud width="40" height="40"/> 
-  </a>
+- ☁️ Adobe Creative Cloud Suite: Photoshop, Premier, Lightroom
 
-
+<p>I'm always looking to improve my skills/further advance them! Cheers!</p>
 <!--
     **valdcarl/valdcarl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
     
