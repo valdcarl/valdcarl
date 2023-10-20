@@ -1,4 +1,4 @@
-<h1>Hey! I'm Carlos! 🌱</h1>
+### Hey! I'm Carlos! 🌱
 <ul>
   <li>🎓 Bachelor's of Science graduate in Computer Science from the University of Colorado, Denver!</li>
   <li>⚡ Fun fact: I love music, bilingual (English & Spanish), and love sports!</li>
