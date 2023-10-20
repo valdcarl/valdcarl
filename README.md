@@ -1,5 +1,5 @@
 <!-- <h1>Hey! I'm Carlos! 🌱</h1> -->
-![Header](./https://github.com/valdcarl/valdcarl/assets/77943334/069ab50c-8925-46b9-849b-5562e573bf83)
+![Header](./carlos-header-image.png)
 <ul>
   <li>🎓 Bachelor's of Science graduate in Computer Science from the University of Colorado, Denver!</li>
   <li>⚡ Fun fact: I love music, bilingual (English & Spanish), and love sports!</li>
