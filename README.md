@@ -74,7 +74,7 @@
 </p>
 <h3 align="left">➕ Additional:></h3>
 - ☁️ Adobe Creative Cloud Suite: Photoshop, Premier, Lightroom
-
+<br>
 <p>I'm always looking to improve my skills/further advance them! Cheers!</p>
 <!--
     **valdcarl/valdcarl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
