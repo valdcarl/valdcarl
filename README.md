@@ -75,7 +75,7 @@
   </a>
 </p>
 <h3 align="left">➕ Additional:></h3>
-- ☁️ Adobe Creative Cloud Suite: Photoshop, Premier, Lightroom
+- ☁️ Adobe Creative Cloud Suite: Photoshop, Premiere Pro, Lightroom
 <br>
 <p>I'm always looking to improve my skills/further advance them! Cheers!</p>
 <!--
