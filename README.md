@@ -1,10 +1,11 @@
 ### Hey! I'm Carlos! 🌱
 <ul>
-  <li>🎓 Bachelor's of Science graduate in Computer Science from the University of Colorado, Denver!</li>
+  <li>🎓 Masters of Science student in Computer Science at the Georgia Insitute of Technology</li>
+  <li>🎓 Bachelor of Science graduate in Computer Science from the University of Colorado, Denver</li>
   <li>⚡ Fun fact: I love music, bilingual (English & Spanish), and love sports!</li>
-  <li>💼 Work experience: <a href="https://www.linkedin.com/in/carlos-valdez-cs/">LinkedIn</a></li>
+  <li>💼 My LinkedIn: <a href="https://www.linkedin.com/in/carlos-valdez-cv/">LinkedIn</a></li>
 </ul>
-<p>Feel free to ask me anything!</p>
+<p>Feel free to ask me anything or ask about any potential opportunities you may have for your organization!</p>
 
 <h3 align="left">💻 Languages:</h3>
 <p align="left">
