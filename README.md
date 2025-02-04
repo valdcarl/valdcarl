@@ -50,8 +50,8 @@
 <a>
   <p align="left">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40"/>,
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" alt="premierepro" width="40" height="40"/>, 
-      Lightroom
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" alt="premierepro" width="40" height="40"/>,
+      <img src= ![image](https://github.com/user-attachments/assets/9f52a8c1-e9f9-4b4d-ad5b-30cc90def7da) alt="lightroom" width="40" height="40">
   </p>
 </a>
 <br>
