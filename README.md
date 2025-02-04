@@ -37,13 +37,19 @@
   </a>
 </p>
 <h3 align="left">🔨 Frameworks/Libraries/Stacks/Databases:</h3>
-  <!-- NumPy-->
+  <!-- NumPy -->
   <a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
   </a>
-- Pandas
+  <!-- Pandas -->
+  <a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40"/>
+  </a>
 <h3 align="left">➕ Additional:></h3>
-- ☁️ Adobe Creative Cloud Suite: Photoshop, Premiere Pro, Lightroom
+- ☁️ Adobe Creative Cloud Suite:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />,
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" />, 
+Lightroom
 <br>
 <p>I'm always looking to improve my skills/further advance them! Cheers!</p>
 <!--
