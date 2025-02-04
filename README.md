@@ -39,7 +39,7 @@
 <h3 align="left">🔨 Frameworks/Libraries/Stacks/Databases:</h3>
   <!-- NumPy-->
   <a>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" alt="numpy" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
   </a>
 - Pandas
 <h3 align="left">➕ Additional:></h3>
