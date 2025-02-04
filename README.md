@@ -47,8 +47,8 @@
   </a>
 <h3 align="left">➕ Additional:></h3>
 - ☁️ Adobe Creative Cloud Suite:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />,
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" />, 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40"/>,
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" alt="premierepro" width="40" height="40"/>, 
 Lightroom
 <br>
 <p>I'm always looking to improve my skills/further advance them! Cheers!</p>
