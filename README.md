@@ -37,6 +37,7 @@
   </a>
 </p>
 <h3 align="left">🔨 Frameworks/Libraries/Stacks/Databases:</h3>
+<p align="left">
   <!-- NumPy -->
   <a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
@@ -45,6 +46,7 @@
   <a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40"/>
   </a>
+</p>
 <h3 align="left">➕ Additional:></h3>
 - ☁️ Adobe Creative Cloud Suite:
 <a>
