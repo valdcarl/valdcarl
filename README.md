@@ -48,7 +48,6 @@
 <h3 align="left">➕ Additional:></h3>
 - ☁️ Adobe Creative Cloud Suite:
 <a>
-    - ☁️ Adobe Creative Cloud Suite:
   <p align="left">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40"/>,
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" alt="premierepro" width="40" height="40"/>, 
