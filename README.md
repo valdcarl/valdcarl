@@ -1,6 +1,6 @@
 ### Hey! I'm Carlos! 🌱
 <ul>
-  <li>🎓 Masters of Science student in Computer Science at the Georgia Insitute of Technology</li>
+  <li>🎓 Master of Science student in Computer Science at the Georgia Insitute of Technology</li>
   <li>🎓 Bachelor of Science graduate in Computer Science from the University of Colorado, Denver</li>
   <li>⚡ Fun fact: I love music, bilingual (English & Spanish), and love sports!</li>
   <li>💼 My LinkedIn: <a href="https://www.linkedin.com/in/carlos-valdez-cv/">LinkedIn</a></li>
